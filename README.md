@@ -18,3 +18,6 @@ It's important to give proper credit. Add links to any repo that inspired you or
 ### Instruction
 Open py file in sublime editor
 
+### Footer
+Add proper footer notes.
+
