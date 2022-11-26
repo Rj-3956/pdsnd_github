@@ -297,7 +297,3 @@ def test_function():
 if __name__ == "__main__":
 	main()
 
-    print("this is a test line")
-
-
-
