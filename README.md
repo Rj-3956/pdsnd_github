@@ -21,3 +21,6 @@ Open py file in sublime editor
 ### Footer
 Add proper footer notes.
 
+### Troubleshooting
+Use print statements for troubleshooting
+
