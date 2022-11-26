@@ -249,6 +249,8 @@ def check_raw_data(df):
         5 rows at a time, if user accepts to see more data it keep printing next 5 rows in the data frame
     """
     
+    #Checing raw data
+
     row_index=0
     while True:
         
@@ -273,6 +275,7 @@ def check_raw_data(df):
 def main():
     
     while True:
+        
         city, month, day = get_filters()
         df = load_data(city, month, day)
 
