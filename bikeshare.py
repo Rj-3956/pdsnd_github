@@ -292,8 +292,11 @@ def main():
         if restart.lower() not in ['y', 'yes']:
             break
            
+def test_function():
+
+    print("this is a dummy function")
+
 
 if __name__ == "__main__":
 	main()
-
 
