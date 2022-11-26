@@ -19,7 +19,7 @@ It's important to give proper credit. Add links to any repo that inspired you or
 Open py file in sublime editor
 
 ### Footer
-Add proper footer notes.
+Add proper footer notes. Include copyright information
 
 ### Troubleshooting
 Use print statements for troubleshooting
